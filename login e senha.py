@@ -2,9 +2,9 @@
 login em bloco de notas
 '''
 # by ferreirajk8@gmail.com
-# gitHub: Elysiun
-# courses: python in cellphone: www.intracurses.com
-# this code is a code full oppening of comunity python
+# gitHub: ElysiunSky
+# courses: Voip Asterisk (call in pv)
+# This code is a complete open source for Python community
 # not is a code to implementation real, just a code of study and pratices
 # não é permitida a venda desse código para lucro pessoal, o código é total aberto ao uso grátis ao público
 
